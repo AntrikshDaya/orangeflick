@@ -302,4 +302,25 @@ export const movies = [
   reason: "A grand, stylish conclusion built for pure cinematic spectacle."
 },
 
+// =======================
+// FRIENDS (TV SERIES)
+// =======================
+
+{
+  id: "friends-series",
+  title: "Friends",
+  year: 1994,
+  type: "series",
+  seasons: 10,
+  moods: ["chill", "feel-good", "funny", "comfort"],
+  pace: "easy",
+  tone: ["light", "nostalgic"],
+  language: "english",
+  dubbed: ["hindi"],
+  familySafe: true,
+  poster: "https://image.tmdb.org/t/p/w500/f496cm9enuEsZkSPzCwnTESEK5s.jpg",
+  backdrop: "https://image.tmdb.org/t/p/original/l0qVZIpXtIo7km9u5Yqh0nKPOr5.jpg",
+  reason: "A timeless comfort watch that feels like hanging out with old friends."
+},
+
 ];
